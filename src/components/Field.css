@@ -1,0 +1,14 @@
+.field {
+    border-radius: 8px;
+    border: 0px;
+    background: rgb(177, 177, 240);
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    font-size: 40px;
+    margin: 2px 2px 2px;
+    float: left;
+}
+
+
+  
